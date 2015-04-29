@@ -23,7 +23,8 @@ public class Prjava01Duenas15 {
             bw.newLine(); 
             bw.write(" <title>");
             bw.newLine(); 
-            bw.write(" Nova p&agrave;gina web de Ivan Duenas");
+            bw.write(" Nova p&agrave;gina web de Ivan Duenas ");
+            bw.write(" DAW2 UF4 Pr&agrave;ctica 2");
             bw.newLine(); 
             bw.write(" </title>");
             bw.newLine(); 
@@ -32,6 +33,7 @@ public class Prjava01Duenas15 {
             bw.write(" <body>");
             bw.newLine(); 
             bw.write(" Nova p&agrave;gina web de Ivan Duenas");
+            bw.write(" DAW2 UF4 Pr&agrave;ctica 2");
             bw.newLine(); 
             bw.write(" </body>");
             bw.newLine(); 
